@@ -61,5 +61,3 @@ venv/
 *.bz2
 *.egg-info/
 
-# Remove this line if you want to keep raw data
-/data/raw_tasks.jsonraw_tasks.json
